@@ -1,21 +1,14 @@
-## GoIT homework E2E Testing
+## GoIT homework Page object pattern
 # Description:
 
 E2E testing of the [GoIT website](https://www.edu.goit.global/account/login).
 
-Run two tests with cypress using user email and password. 
+Run tests with cypress using page object pattern.
 
-# Test 1:
-
-- open file cypress in VScode
-- open file e2e>homework-02>Tests-1-2.cy.js
-- open terminal and type npx cypress open
-- start E2E Testing in Chrome browser
-
-# Test 2:
+# Test POP:
 
 - open file cypress in VScode
-- open file e2e>homework-02>Tests-1-2.cy.js
+- open file e2e>homework-03>TestPOP.cy.js
 - open terminal and type npx cypress open
 - start E2E Testing in Chrome browser
 
